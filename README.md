@@ -1,3 +1,5 @@
+https://github.com/WenBofu-cy/EM-Core-English
+
 # EM-Core AGI 终极骨架｜人形机器人真正的核心大脑
 【原创·全球开源】
 
